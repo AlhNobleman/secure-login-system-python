@@ -11,6 +11,13 @@ A simple but complete login system with account locking, persistent storage, and
 - Admin mode (username: `admin`, password: `admin123`) to view and unlock locked accounts
 - Clean messages, emojis, and thoughtful UX
 
+## Screenshot Preview
+- ![Screenshot 1](screenshot/login_system1.png)
+- ![Screenshot 2](screenshot/login_system2.png)
+- ![Screenshot 3](screenshot/login_system3.png)
+- ![Screenshot 4](screenshot/login_system4.png)
+
+  
 ## How to Run
 1. Make sure you have Python installed
 2. Run the script
